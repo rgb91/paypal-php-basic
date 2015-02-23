@@ -1,8 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="efaa2f50-d42f-4462-84f0-1044decfce2e" name="Default" comment="" />
     <ignored path="paypal.iws" />
+=======
+    <list default="true" id="b8b136ba-d3a4-4ab7-a2af-07eef5d568bb" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.idea/workspace.xml" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" />
+    </list>
+    <ignored path="packages.iws" />
+>>>>>>> 36def5ac996e8297134e1fe3800f3e45c7c23f00
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -20,6 +27,7 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
+<<<<<<< HEAD
     <favorites_list name="paypal" />
   </component>
   <component name="FileEditorManager">
@@ -31,6 +39,12 @@
         <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
+=======
+    <favorites_list name="packages" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+>>>>>>> 36def5ac996e8297134e1fe3800f3e45c7c23f00
   </component>
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
@@ -40,7 +54,11 @@
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
+<<<<<<< HEAD
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+=======
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+>>>>>>> 36def5ac996e8297134e1fe3800f3e45c7c23f00
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -67,17 +85,29 @@
         <subPane>
           <PATH>
             <PATH_ELEMENT>
+<<<<<<< HEAD
               <option name="myItemId" value="paypal" />
+=======
+              <option name="myItemId" value="packages" />
+>>>>>>> 36def5ac996e8297134e1fe3800f3e45c7c23f00
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
+<<<<<<< HEAD
               <option name="myItemId" value="paypal" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="paypal" />
+=======
+              <option name="myItemId" value="packages" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="packages" />
+>>>>>>> 36def5ac996e8297134e1fe3800f3e45c7c23f00
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -89,6 +119,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+<<<<<<< HEAD
   </component>
   <component name="RunManager">
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
@@ -111,15 +142,29 @@
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
       <method />
     </configuration>
+=======
+    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+  </component>
+  <component name="RunManager">
+>>>>>>> 36def5ac996e8297134e1fe3800f3e45c7c23f00
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< HEAD
       <changelist id="efaa2f50-d42f-4462-84f0-1044decfce2e" name="Default" comment="" />
       <created>1424711672389</created>
       <option name="number" value="Default" />
       <updated>1424711672389</updated>
+=======
+      <changelist id="b8b136ba-d3a4-4ab7-a2af-07eef5d568bb" name="Default" comment="" />
+      <created>1424711211387</created>
+      <option name="number" value="Default" />
+      <updated>1424711211387</updated>
+>>>>>>> 36def5ac996e8297134e1fe3800f3e45c7c23f00
     </task>
     <servers />
   </component>
@@ -168,6 +213,7 @@
     <breakpoint-manager />
     <watches-manager />
   </component>
+<<<<<<< HEAD
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
@@ -178,4 +224,6 @@
       </provider>
     </entry>
   </component>
+=======
+>>>>>>> 36def5ac996e8297134e1fe3800f3e45c7c23f00
 </project>
